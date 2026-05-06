@@ -10,7 +10,7 @@
 <h2 align="center">My Toolkit Includes</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,tailwind,js,bash,github,arch,neovim,stackoverflow,c,cpp,rust#&perline=6" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=bash,github,python,arch,neovim,#&perline=6" alt="Skill Icons" />
 </p>
 
 <p align="center">
@@ -18,18 +18,10 @@
 </p>
 
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arkovyx&layout=compact&theme=dark&hide_border=true&langs_count=10)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arkovyx&show_icons=true&theme=dark&hide_border=true)
-</div>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkovyx&theme=github_dark" alt="Profile Summary Card" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arkovyx&theme=github-dark&area=true&hide_border=true" alt="Contributions Graph" />
-</div>
 
 <p align="center">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=arkovyx">
