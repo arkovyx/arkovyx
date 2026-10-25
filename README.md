@@ -10,7 +10,7 @@
 <h2 align="center">My Toolkit Includes</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,github,python,arch,neovim#&perline=6" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=bash,github,python,rust,arch,neovim#&perline=6" alt="Skill Icons" />
 </p>
 
 <p align="center">
